@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Corporate Tragedy EXT",
+  "version": "0.1.0",
+  "description": "A VS Code inspired workspace skin for websites in Chrome.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Corporate Tragedy EXT"
+  },
+  "icons": {}
+}
